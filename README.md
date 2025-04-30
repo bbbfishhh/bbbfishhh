@@ -2,7 +2,7 @@
 
 ### 🔭 Currently Working On
 - [AI + X]
-- LLM Agent SaaS 连续实践者
+- LLM Agent 连续实践者
 
 ### 📝 Philosophy
 Writing is thinking, maximizing experience. Always curious, always excited. Read more books, build more ideas, meet more people, ask more questions!

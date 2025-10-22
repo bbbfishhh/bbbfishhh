@@ -12,3 +12,7 @@ Writing is thinking, maximizing experience. Always curious, always excited. Read
 ### 🚀 Projects
 - [AI Information Flow Push](https://github.com/all-dataa/InfoFlow4Venture)
 - [AIGC of biography4everyone](https://github.com/all-dataa/individual_biograph)
+
+### other accounts:
+- X/twitter: @xzogs
+
